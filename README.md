@@ -12,7 +12,10 @@ Papers I read when I dive into attention mechanism
 
 ### Spatial Attention
 
+- [LSTA: Long Short-Term Attention for Egocentric Action Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sudhakaran_LSTA_Long_Short-Term_Attention_for_Egocentric_Action_Recognition_CVPR_2019_paper.pdf) `CVPR2019` [code](https://github.com/swathikirans/LSTA)
+
 - [Attention in Convolutional LSTM for Gesture Recognition](http://papers.nips.cc/paper/7465-attention-in-convolutional-lstm-for-gesture-recognition) `NIPS2018` [code](https://github.com/GuangmingZhu/AttentionConvLSTM)
+- [CBAM: Convolutional Block Attention Module](https://arxiv.org/abs/1807.06521) `ECCV2018` [code](https://github.com/Jongchan/attention-module)
 - [BAM: Bottleneck Attention Module](https://arxiv.org/abs/1807.06514) `BMVC2018` [code](https://github.com/Jongchan/attention-module)
 - [Attentional Pooling for Action Recognition](http://papers.nips.cc/paper/6609-attentional-pooling-for-action-recognition) `NIPS2017` [code](https://github.com/rohitgirdhar/AttentionalPoolingAction)
 - [Action Recognition using Visual Attention](https://arxiv.org/abs/1511.04119) `ICLR2016`  [code](https://github.com/kracwarlock/action-recognition-visual-attention)
@@ -22,6 +25,7 @@ Papers I read when I dive into attention mechanism
 - [Joint Network based Attention for Action Recognition](https://arxiv.org/abs/1611.05215) `ArXiv2016` 
 
 - [Describing Videos by Exploiting Temporal Structure](https://arxiv.org/abs/1502.08029) `ICCV2015` [code](https://github.com/yaoli/arctic-capgen-vid)
+- [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) `ICLR2015` [code](https://github.com/bentrevett/pytorch-seq2seq)
 
 ### Spatial & Temporal Attention
 
@@ -29,3 +33,6 @@ Papers I read when I dive into attention mechanism
 - [Video Paragraph Captioning Using Hierarchical Recurrent Neural Networks](https://arxiv.org/pdf/1510.07712.pdf) `CVPR2016` 
 
 ## Hard Attention
+
+- [Recurrent Models of Visual Attention](https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf) `NIPS2014` [code](https://github.com/kevinzakka/recurrent-visual-attention)
+
