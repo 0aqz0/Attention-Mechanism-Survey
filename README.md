@@ -13,6 +13,7 @@ Papers I read when I dive into attention mechanism
 ### Spatial Attention
 
 - [LSTA: Long Short-Term Attention for Egocentric Action Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sudhakaran_LSTA_Long_Short-Term_Attention_for_Egocentric_Action_Recognition_CVPR_2019_paper.pdf) `CVPR2019` [code](https://github.com/swathikirans/LSTA)
+- [An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Si_An_Attention_Enhanced_Graph_Convolutional_LSTM_Network_for_Skeleton-Based_Action_CVPR_2019_paper.pdf) `CVPR2019` 
 
 - [Attention in Convolutional LSTM for Gesture Recognition](http://papers.nips.cc/paper/7465-attention-in-convolutional-lstm-for-gesture-recognition) `NIPS2018` [code](https://github.com/GuangmingZhu/AttentionConvLSTM)
 - [CBAM: Convolutional Block Attention Module](https://arxiv.org/abs/1807.06521) `ECCV2018` [code](https://github.com/Jongchan/attention-module)
@@ -20,6 +21,7 @@ Papers I read when I dive into attention mechanism
 - [Look Closer to See Better: Recurrent Attention Convolutional Neural Network for Fine-Grained Image Recognition](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Look_Closer_to_CVPR_2017_paper.pdf) `CVPR2017` 
 - [Attentional Pooling for Action Recognition](http://papers.nips.cc/paper/6609-attentional-pooling-for-action-recognition) `NIPS2017` [code](https://github.com/rohitgirdhar/AttentionalPoolingAction)
 - [Action Recognition using Visual Attention](https://arxiv.org/abs/1511.04119) `ICLR2016`  [code](https://github.com/kracwarlock/action-recognition-visual-attention)
+- [Multiple Granularity Descriptors for Fine-grained Categorization](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Wang_Multiple_Granularity_Descriptors_ICCV_2015_paper.pdf) `ICCV2015` 
 
 ### Temporal Attention
 
