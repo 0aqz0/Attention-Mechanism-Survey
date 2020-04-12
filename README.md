@@ -12,6 +12,10 @@ Papers I read when I dive into attention mechanism
 
 ### Spatial Attention
 
+- [Normalized and Geometry-Aware Self-Attention Network for Image Captioning](https://arxiv.org/abs/2003.08897) `CVPR2020` 
+- [Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector](https://arxiv.org/abs/1908.01998) `CVPR2020` 
+- [Salient Object Detection with Pyramid Attention and Salient Edges](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Salient_Object_Detection_With_Pyramid_Attention_and_Salient_Edges_CVPR_2019_paper.pdf) `CVPR2019` [code](https://github.com/wenguanwang/PAGE-Net)
+
 - [LSTA: Long Short-Term Attention for Egocentric Action Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sudhakaran_LSTA_Long_Short-Term_Attention_for_Egocentric_Action_Recognition_CVPR_2019_paper.pdf) `CVPR2019` [code](https://github.com/swathikirans/LSTA)
 - [An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Si_An_Attention_Enhanced_Graph_Convolutional_LSTM_Network_for_Skeleton-Based_Action_CVPR_2019_paper.pdf) `CVPR2019` 
 
@@ -28,6 +32,7 @@ Papers I read when I dive into attention mechanism
 - [Joint Network based Attention for Action Recognition](https://arxiv.org/abs/1611.05215) `ArXiv2016` 
 
 - [Describing Videos by Exploiting Temporal Structure](https://arxiv.org/abs/1502.08029) `ICCV2015` [code](https://github.com/yaoli/arctic-capgen-vid)
+- [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025) `EMNLP2015` [code](https://github.com/lingyongyan/Neural-Machine-Translation)
 - [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) `ICLR2015` [code](https://github.com/bentrevett/pytorch-seq2seq)
 
 ### Spatial & Temporal Attention
